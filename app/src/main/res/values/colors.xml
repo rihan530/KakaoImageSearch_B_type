@@ -10,4 +10,5 @@
     <color name="main_blue">#008CFF</color>
     <color name="main_blue_press">#014379</color>
     <color name="grey_400">#dadada</color>
+    <color name="red">#FF0000</color>
 </resources>
